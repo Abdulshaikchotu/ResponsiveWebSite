@@ -150,4 +150,7 @@ body {
     .image-overlay{
       height: 30%;
     }
+    .header-links ul{
+      flex-direction: column;
+    }
   }
